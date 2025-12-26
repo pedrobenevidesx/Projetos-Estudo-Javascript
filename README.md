@@ -4,8 +4,8 @@ Repositório com **projetos simples em JavaScript** feitos para **estudo e prát
 
 ## Projetos
 
-### Lâmpada
-### Calculadora IMC
+- Lâmpada
+-  Calculadora IMC
 ---
 
 ## Tecnologias
