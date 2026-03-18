@@ -5,7 +5,9 @@ Repositório com **projetos simples em JavaScript** feitos para **estudo e prát
 ## Projetos
 
 - Lâmpada
--  Calculadora IMC
+- Calculadora IMC
+- Conversor de moedas
+- Sistema de reembolso 
 ---
 
 ## Tecnologias
